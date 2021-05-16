@@ -51,7 +51,6 @@
         }
         printf("\nШифр Цезаря расшифрованный = ");
         cout << buf << endl; //выводим код
-
     system("pause");
     return 0;
     }
